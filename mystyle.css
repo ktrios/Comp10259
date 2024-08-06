@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(20, 90, 220);
+}
+
+h2 {
+  background-color: rgb(20, 90, 220);
+}
+
+button {
+  border-color: rgb(20, 90, 220);
+  height: 80px;
+  width: 70px;
+}
+
+div {
+  background-color: rgb(20, 90, 220);
+  height: 200px;
+  width: 200px;
+}/*# sourceMappingURL=mystyle.css.map */
